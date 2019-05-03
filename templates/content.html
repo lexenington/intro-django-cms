@@ -6,18 +6,18 @@
     <p>This page has no content yet. Make sure you are in <em>Edit</em> mode
        (hit the <strong>Edit page</strong> button if required). Then switch to
        <em>Structure</em> mode.</p>
-    
-       <div class="container">
-        <div class="row">
-          {% placeholder "header" %}
-        </div>
-        <div class="row">
-          <div class="col-md-9">
-            {% placeholder "news-headline" %}
-          </div>
-        </div>
-        <div class="col-md-3">
-            {% placeholder "archive" %}
-        </div>
+  {% endplaceholder %}
+  <div class="container">
+    <div class="row">
+      {% placeholder "header" %}
+    </div>
+    <div class="row">
+      <div class="col-md-9">
+        {% placeholder "news-headline" %}
       </div>
-{% endblock content %
+    </div>
+    <div class="col-md-3">
+        {% placeholder "archive" %}
+    </div>
+  </div>
+{% endblock content %}
