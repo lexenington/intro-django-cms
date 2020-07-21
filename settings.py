@@ -6,6 +6,7 @@ INSTALLED_ADDONS = [
     'aldryn-django',
     'aldryn-sso',
     'aldryn-django-cms',
+    'aldryn-forms-recaptcha-plugin',
     'djangocms-bootstrap4',
     'djangocms-file',
     'djangocms-googlemap',

@@ -3,6 +3,7 @@ https://control.divio.com/api/v1/apps/serve/aldryn-addons/1.1.0/7a2d5a44-16e2-4e
 https://control.divio.com/api/v1/apps/serve/aldryn-django/1.11.23.1/7af41e41-9e49-4839-af8a-1bcb8aac9438/aldryn-django-1.11.23.1.tar.gz#egg=aldryn-django==1.11.23.1
 https://control.divio.com/api/v1/apps/serve/aldryn-sso/1.6.0/6d90e844-d7ef-4faa-b527-5df3d49277be/aldryn-sso-1.6.0.tar.gz#egg=aldryn-sso==1.6.0
 https://control.divio.com/api/v1/apps/serve/aldryn-django-cms/3.6.0.8/eef0b35d-0fb4-44d7-bef1-248950a46af5/aldryn-django-cms-3.6.0.8.tar.gz#egg=aldryn-django-cms==3.6.0.8
+https://control.divio.com/api/v1/apps/serve/aldryn-forms-recaptcha-plugin/0.0.1/768deebe-93ae-43ad-8668-5a81d5e1283f/aldryn-forms-recaptcha-plugin-0.0.1.tar.gz#egg=aldryn-forms-recaptcha-plugin==0.0.1
 https://control.divio.com/api/v1/apps/serve/djangocms-bootstrap4/1.5.0/f938e98b-459c-4a9c-9a6b-47e7a6f786f3/djangocms-bootstrap4-1.5.0.tar.gz#egg=djangocms-bootstrap4==1.5.0
 https://control.divio.com/api/v1/apps/serve/djangocms-file/2.2.0/923d718c-d74e-45aa-b365-cddc2f074e02/djangocms-file-2.2.0.tar.gz#egg=djangocms-file==2.2.0
 https://control.divio.com/api/v1/apps/serve/djangocms-googlemap/1.2.0/2b53374c-9d0b-47cf-9006-be1c798fa7be/djangocms-googlemap-1.2.0.tar.gz#egg=djangocms-googlemap==1.2.0
